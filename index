@@ -1,0 +1,31 @@
+<!doctype html>
+  <html lang="id-ID">
+    <head>
+      <title>DWIMP3| Belajar IT</title>
+      <meta charset="utf-8">
+      <meta name="author" content="dwimp3">
+      <meta name="keyword" content="html5, css, web, website, website programming">
+      <meta name="description" content="proyek belajar web programming dari dasar, meliputi html, css, jacascript dan PHP">
+      <meta name="viewport" content="width=device-width, initial scale=1.0">
+      <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+      <header>
+        <h1>DWIMP3</h1>
+        <p>Dokumentasi Belajar IT</p>
+        <hr/>
+        <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Internet</a></li>
+            <li><a href="#">Browsing</a></li>
+            <li><a href="#">Blogging</a></li>
+            <li><a href="#">Programming</a></li>
+            <li><a href="#">Webprogramming</a></li>
+            <li><a href="#">Hacking</a></li>
+          </ul>
+         </nav>
+        </header>
+        <main>
+        <section>
+        
