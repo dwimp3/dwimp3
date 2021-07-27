@@ -22,7 +22,13 @@
         </ul>
       </nav>
     </header>
-      <h1>First Greeting</h1>
-      <p>Hello. Welcome to my page. This is my first web page.</p>
+    <main>
+      <section>
+        <article>
+          <h1>First Greeting</h1>
+          <p>Hello. Welcome to my page. This is my first web page.</p>
+        </article>
+      </section>
+     </main>
   </body>
 </html>
