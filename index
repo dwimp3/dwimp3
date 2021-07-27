@@ -9,8 +9,18 @@
   </head>
   <body>
     <header>
-    <h1>Dwimp3</h1>
-    <p>Belajar Membuat halaman Website sendiri dari nol</p>
+      <h1>Dwimp3</h1>
+      <p>Belajar Membuat halaman Website sendiri dari nol</p>
+      <hr/>
+      <nav>
+        <ul>
+          <li>a href="#">Home</a></a>
+          <li>a href="#">HTML</a></a>
+          <li>a href="#">CSS</a></a>
+          <li>a href="#">Javascript</a></a>
+          <li>a href="#">PHP</a></a>
+        </ul>
+      </nav>
     </header>
       <h1>First Greeting</h1>
       <p>Hello. Welcome to my page. This is my first web page.</p>
