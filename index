@@ -8,7 +8,11 @@
     <meta name="description" content="learning building website by learning html, css,js and php"> 
   </head>
   <body>
-    <h1>First Greeting</h1>
-     <p>Hello. Welcome to my page. This is my first web page.</p>
+    <header>
+    <h1>Dwimp3</h1>
+    <p>Belajar Membuat halaman Website sendiri dari nol</p>
+    </header>
+      <h1>First Greeting</h1>
+      <p>Hello. Welcome to my page. This is my first web page.</p>
   </body>
 </html>
