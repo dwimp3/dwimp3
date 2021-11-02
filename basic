@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 <head>
 <title>basic</title>
@@ -5,5 +6,6 @@
 <body>
 <h1>This is heading</h1>
 <p>This is paragraph.</p>
+<p>Hello everyone. This is my first page. i am beginning to learn about html. html is an markup language. it is used to modify text in webpages to make it more beautiful, effective and attractive.</p>
 </body>
 </html>
