@@ -13,6 +13,16 @@
 <header>
 <h1>Metafilesx</h1>
 <p>web catatan kuliah IT.</p>
+<nav>
+<ul>
+<li>Beranda</li>
+<li>tentang kami</li>
+<li>galeri</li>
+<li>Hubungi kami</li>
+<li>Blog</li>
+<li>Berita</li>
+</ul>
+</nav>
 </header>
 <main>
 <section>
