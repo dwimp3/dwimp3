@@ -1,9 +1,12 @@
+<!doctype html>
 <html>
 <head>
+<meta charset="utf-8">
 <title>Judul</title>
 </head>
 <body>
 <h1>Judul halaman</h1>
 <p>ini adalah paragraf.</p>
+<p>Halo. selamat datang. ini adalah file percobaanku. Aku sedang belajar membuat halaman web dengan bahasa html, khususnya html. halaman ini adalah rintisan dari percobaanku.</p>
 </body>
 </html>
