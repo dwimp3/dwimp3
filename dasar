@@ -10,8 +10,26 @@
 <title>Judul</title>
 </head>
 <body>
-<h1>Judul halaman</h1>
+<header>
+<h1>Metafilesx</h1>
+<p>web catatan kuliah IT.</p>
+</header>
+<main>
+<section>
+<article>
 <p>ini adalah paragraf.</p>
 <p>Halo. selamat datang. ini adalah file percobaanku. Aku sedang belajar membuat halaman web dengan bahasa html, khususnya html. halaman ini adalah rintisan dari percobaanku.</p>
+</article>
+</section>
+<section>
+<article>
+</article>
+</section>
+</main>
+<aside>
+</aside>
+<footer>
+<p>copyright @2021. Metafilesx.</p>
+</footer>
 </body>
 </html>
